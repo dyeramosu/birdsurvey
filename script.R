@@ -1,5 +1,11 @@
 #script to analyze bird counts
 
-Add figure 
+Read data
 
-Run analysis 
+Run analysis
+
+Save table
+
+Save
+
+Change 4?
